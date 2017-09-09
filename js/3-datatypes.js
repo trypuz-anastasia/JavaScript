@@ -1,4 +1,4 @@
-'use strict';
+/*'use strict';
 
 var wyplata = 5000;
 var premia = -2500.50;
@@ -12,6 +12,7 @@ var czyJestSmog;
 czyJestSmog = true;
 
 if (czyJestSmog) {
+    'use strict';
     console.log("Jest Smog");
 }
     else {
@@ -22,4 +23,4 @@ var niezdefiniowanaZmienna;
 var nullowaZmienna = null;
 
 console.log(niezdefiniowanaZmienna);
-console.log(nullowaZmienna);
+console.log(nullowaZmienna);*/

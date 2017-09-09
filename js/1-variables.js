@@ -1,3 +1,4 @@
+/*
 'use strict';
 
 var imie;
@@ -13,3 +14,4 @@ imie = imieDamskie;
 console.log(imie);
 console.log(kolor);
 console.log(wiek);
+*/

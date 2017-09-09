@@ -1,4 +1,4 @@
-'use strict';
+/*'use strict';
 
 var imiona = ['Monika', 'Krystian', 'Łukasz'];
 
@@ -28,6 +28,7 @@ console.log(imiona);
 console.log (imiona.join(" - "));
 
 function Osoba(imie, nazwisko) {
+    'use strict';
     
     this.imie = imie
-}
+}*/

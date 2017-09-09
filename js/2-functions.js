@@ -1,3 +1,4 @@
+/*
 'use strict';
 
 function wypiszImie( imieDoWyswietlenia ) {
@@ -30,3 +31,4 @@ var mnoznik2 = 6;
 var wynik = multiply(mnoznik1, mnoznik2);
 
 console.log(wynik);
+*/
